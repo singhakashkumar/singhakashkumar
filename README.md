@@ -25,7 +25,7 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm 21 years old Software Developer from India.
+### I'm 21 year old Software Developer from India.
 
 
 #### -  Learning Flutter  <code><img height="20" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/thumb/flutterlogo.png"></code>, NodeJS <code> <img height="20" width="16" src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg"> </code> 
