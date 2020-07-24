@@ -21,14 +21,14 @@
 
 <br />
 
-<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 <br />
 
 ### Hi 🙋‍♂️,
 ### I'm 21 year old Software Developer from India.
 
 
-#### -  Learning Flutter  <code><img height="20" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/thumb/flutterlogo.png"></code>, NodeJS <code> <img height="20" width="16" src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg"> </code> 
+#### -  Currently I'm learning Flutter  <code><img height="20" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/thumb/flutterlogo.png"></code>, NodeJS <code> <img height="20" width="16" src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg"> </code> 
 
 
 
